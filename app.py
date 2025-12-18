@@ -7,7 +7,7 @@ import requests
 # ==========================================
 # [설정] 배포된 Apps Script URL 입력
 # ==========================================
-APPS_SCRIPT_URL = "https://script.google.com/macros/s/여기에_당신의_긴_주소를_넣으세요/exec"
+APPS_SCRIPT_URL = "https://script.google.com/macros/s/AKfycbxX9l9ZZz02wPkwFAFncfP6MunnepVr8W3tFy5PXYsOeqi8zEcdFULsVnaKZWzrA2hPQQ/exec"
 
 st.set_page_config(page_title="자동 저장 여행 플래너", layout="wide")
 
